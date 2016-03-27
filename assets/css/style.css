@@ -1,0 +1,122 @@
+body {
+	padding: 30px;
+	line-height: 1.6;
+	font-family: 'Roboto', sans-serif;
+	background-color: #30373d;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: "Roboto Slab",serif;
+	color: #ff9934;
+	text-align: center;
+	font-size: 300%;
+	font-weight: 400;
+}
+
+div#kompass {
+	padding: 20px;
+	text-align: center;
+	margin: 30px auto 60px auto;
+	background-color: #DB5046;
+	width: 280px;
+	height: 280px;
+	border-radius: 50%;
+}
+
+	div#kompass i {
+		font-size: 1200%;
+		color: white;
+	}
+
+	div#kompass a {
+		color: white;
+		font-family: "Roboto Slab",serif;
+		text-decoration: none;
+		font-size: 300%;
+	}
+
+div#beholder {
+	margin: 0 auto;
+	padding: 20px 30px;
+	max-width: 600px;
+	background-color: white;
+}
+
+ul#turer {
+	padding: 0;
+}
+
+	ul#turer li {
+		list-style-type: none;
+	}
+	
+	ul#turer li a {
+		margin: 0 0 5px 0;
+		padding: 5px 10px;
+		display: block;
+	}
+	
+		ul#turer li a:link {
+			background-color: #eaeaea;
+			text-decoration: none;
+			color: #30373d;
+		}
+	
+		ul#turer li a:hover {
+			background-color: #DB5046;
+			color: white;
+		}
+		
+		ul#turer li a:visited {
+			
+		}
+		
+div#bunn {
+	margin: 30px auto;
+	text-align: center;
+	color: white;
+}
+
+	div#bunn a {
+		color: white;
+	}
+
+input.lastopp-filvelger {
+	font-family: 'Roboto', sans-serif;
+	font-size: 100%;
+}
+	
+input.lastopp-knapp {
+	padding: 10px 15px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 100%;
+	background-color: #91C752;
+	border: none;
+	color: white;
+	border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
