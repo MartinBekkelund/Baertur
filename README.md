@@ -2,6 +2,10 @@
 
 Bærtur lar deg vise ruter du har gått med din GPS på et kart fra Kartverket i en nettleser.
 
+## Demo
+
+http://code.bekkelund.net/Baertur/ 
+
 ## Slik kommer du i gang
 
 Last ned alle filer og last opp på ditt eget nettsted. Du trenger støtte for PHP.
