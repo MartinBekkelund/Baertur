@@ -8,7 +8,7 @@ http://code.bekkelund.net/Baertur/
 
 ## Slik kommer du i gang
 
-Last ned alle filer og last opp på ditt eget nettsted. Du trenger støtte for PHP.
+[Last ned alle filer](https://github.com/MartinBekkelund/Baertur/archive/master.zip) og last opp på ditt eget nettsted. Du trenger støtte for PHP.
 
 Turer vises når du åpner hovedsiden. Nye turer kan legges til med `lastopp.php` eller med FTP rett i mappen `gpx`.
 
