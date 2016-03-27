@@ -33,9 +33,9 @@
 				var options = {
 					async: true,
 					marker_options: {
-						startIconUrl: '/bower_components/leaflet-gpx/pin-icon-start.png',
-						endIconUrl: '/bower_components/leaflet-gpx/pin-icon-end.png',
-						shadowUrl: '/bower_components/leaflet-gpx/pin-shadow.png'
+						startIconUrl: 'assets/lib/leaflet-gpx/pin-icon-start.png',
+						endIconUrl: 'assets/lib/leaflet-gpx/pin-icon-end.png',
+						shadowUrl: 'assets/lib/leaflet-gpx/pin-shadow.png'
 					}
 				};
 
