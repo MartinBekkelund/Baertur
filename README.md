@@ -1,3 +1,5 @@
+[logo]: https://raw.githubusercontent.com/MartinBekkelund/Baertur/master/assets/img/baertur_logo.jpg "Bærtur logo"
+
 # Bærtur
 
 Bærtur lar deg vise spor du har gått med din GPS på et kart fra Kartverket i en nettleser.
