@@ -1,4 +1,4 @@
-[logo]: https://raw.githubusercontent.com/MartinBekkelund/Baertur/master/assets/img/baertur_logo.jpg "Bærtur logo"
+![alt text](https://raw.githubusercontent.com/MartinBekkelund/Baertur/master/assets/img/baertur_logo.jpg "Bærtur")
 
 # Bærtur
 
